@@ -64,7 +64,7 @@ After doing above steps, then run the react native android app, but make sure to
 Run this command first to make sure to clean gradle cache but make sure to run it in './android' directory
 
 ```bash
-gradlew clean
+./gradlew clean
 ```
 
 Now run this one
